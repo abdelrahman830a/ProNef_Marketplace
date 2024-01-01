@@ -20,9 +20,11 @@ const Download = () => {
             </span>
           </p>
         </div>
+        <a href="https://github.com/abdelrahman830a/ProNef_ReactNative">
         <button className={styles.btnPrimary}>
-          <a href="https://github.com/abdelrahman830a/ProNef_ReactNative">Source Code</a>
+          Source Code
         </button>
+        </a>
         <div className={styles.flexCenter}>
           <img
             src={assets.scene}
